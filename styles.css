@@ -593,3 +593,7 @@ textarea {
   outline: 2px solid rgba(214, 74, 74, 0.6);
   outline-offset: 2px;
 }
+
+.Partner {
+  font-family: 'Gravitas One', cursive;
+}
